@@ -4,7 +4,7 @@ using System;
 
 public class Test
 {
-public static final int MAX_NUM = 1000;
+public static const int MAX_NUM = 1000;
 public static int sum;
 
 	public static void Main(){
